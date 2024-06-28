@@ -9,7 +9,7 @@ Projeto com o objetivo de gerar um Ebook com um layout divertido e profissional,
   />
 </p>
 
-<a href="https://web.dio.me/articles/a-magia-da-ia-entendendo-a-tecnologia-que-pensa-como-nos?back=%2Farticles&page=1&order=oldest" title="View PDF now"> 📕Clique aqui para ler o artigo</a>
+<a href="https://github.com/gabriellaasilveira/criando-ebook-dio/issues/2#issue-2381289516" title="View PDF now"> 📕Clique aqui para ler o ebook</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
@@ -24,14 +24,14 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | me de 10 sugestões de títulos para esse artigo                                                                                                                                                                                                    |
-| conteúdo | Comporte-se como um escritor de artigos tech e escreva um artigo sobre Inteligencia Artificial atendendo as regras abaixo: REGRAS > De um título atrativo para o artigo > Tenha 5 blocos sobre as linguagens de programação  > Tenha uma introdução e conclusão > Me explique de uma maneira informal, como se eu fosse uma criança de 10 anos |
+|  título  | crie um título para um ebook sobre o tema "dicas para iniciar na área de programação", o ebook é do nicho programação, e o público-alvo são pessoas que estão iniciando na área, o título deve ser épico e curto, e tenha uma temática mais nerd e tech, me liste 10 variações de títulos|
+| conteúdo | faça um texto para ebook, com foco em programação, listando 10 dicas principais para quem esta iniciando na área REGRAS >Explique sempre de uma maneira simples >Deixe o texto enxuto >Sempre traga exemplos e sugestões em contextos reais >Sempre deixe um título sugestivo por tópico >o texto deverá ter uma temática de heróis >tenha uma linguagem divertida e dinamica |
 
 Canva:
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  imagens  | Robo poderoso com bola de cristal na mao estilo neon         
+|  imagens  | Robo super-herói poderoso e futurista mexendo em um computador         
 
 ## 👩🏻‍💻 Expert
 
