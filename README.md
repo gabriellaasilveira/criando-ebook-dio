@@ -4,7 +4,7 @@ Projeto com o objetivo de gerar um Ebook com um layout divertido e profissional,
 
 <p align="center">
   <img 
-    src="![capa ebook projeto dio](https://github.com/gabriellaasilveira/criando-ebook-dio/assets/151572079/1eef4505-9586-4d6e-87b6-abdb5fc4de24)"
+    src="https://github.com/gabriellaasilveira/criando-ebook-dio/issues/3#issue-2381304237"
     width="400"  
   />
 </p>
