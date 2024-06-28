@@ -4,7 +4,7 @@ Projeto com o objetivo de gerar um Ebook com um layout divertido e profissional,
 
 <p align="center">
   <img 
-    src="https://github.com/gabriellaasilveira/criando-um-artigo-com-chatgpt/assets/151572079/db0c7fe7-82a7-4eca-9078-e8705d07bc9a)"
+    src="https://github.com/gabriellaasilveira/criando-ebook-dio/issues/1#issue-2381288121"
     width="400"  
   />
 </p>
